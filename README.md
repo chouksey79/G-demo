@@ -1,4 +1,4 @@
 # G-demo
 This is my first Git Repository.
 <br>
-Author-shrishti chouksey
+Author-(shrishti_chouksey)
